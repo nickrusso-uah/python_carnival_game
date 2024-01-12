@@ -1,6 +1,6 @@
 # python_carnival_game
 -----------------------------------------------
-Goal of this is to use LLMs (github copilot) to develop code calculating some game theory problems:
+Goal of this is to use LLMs (mostly github copilot) to develop code calculating some game theory problems:
 
 The Game:
 carnival game where you need to throw rings and land them around the neck of a bottle. Each bottle and/or ring can have a different size affecting the difficulty of the throw. You get a certain number of points per completed throw, with harder throws being worth more. The objective function is to score as many points as possible with the given rings 
